@@ -17,28 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Researcher"
+  company = "Department of Computer Science, University of Oxford"
+  company_url = "https://www.cs.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2018-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+Researcher in Infinite-State Systems and Dynamical Systems
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Stipendiary Lecturer"
+  company = "St Peter's College, University of Oxford"
+  company_url = "https://www.spc.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2018-10-01"
+  date_end = "2020-10-01"
+  description = """Lecturer in Pure Mathematics"""
+  
+  [[experience]]
+  title = "Teaching Associate"
+  company = "School of Mathematics, University of Bristol"
+  company_url = "https://www.bristol.ac.uk/maths/"
+  location = "Bristol"
+  date_start = "2017-08-01"
+  date_end = "2018-05-31"
+  description = """Academic Tutor in Mathematics"""
 
 +++
