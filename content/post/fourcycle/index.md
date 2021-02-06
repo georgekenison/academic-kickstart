@@ -23,7 +23,7 @@ image:
 ---
 
 ### The Markov Reachability Problem
-We are interested in decision problems for Markov chains and in particular, chiefly the _Markov Reachability Problem_. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
+We are interested in decision problems for Markov chains and in particular, the _Markov Reachability Problem_. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
 That is to say, is does there exist an $n\in\mathbb{N}$ such that the probability of travelling from state $1$ to state $2$ is exactly $r$.
 The decidability of the Markov Reachability Problem is currently open.
 
