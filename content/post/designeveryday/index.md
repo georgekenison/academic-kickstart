@@ -34,7 +34,8 @@ The author includes the following insight by philosopher and mathematician Alfre
 
 It is interesting to link Whitehead's observation to schools of thought in mathematics education; that is, the academic study of didactical practice and learning outcomes in mathematics.
 
-However, the topic of effective learning in mathematics appears to be of little concern to many lecturers. Indeed, Freudenthal observes that complete mastery of a topic separates some teachers from their learners:
+Casual observation and anecdotal evidence suggest that the topic of effective learning in mathematics appears to be of little concern to many lecturers.  Freudenthal offers the following observation: complete mastery of a topic separates some teachers from their learners.
+
 >I have observed, not only with other people but also with myself. . . that sources of
 >insight can be clogged by automatisms. One finally masters an activity so perfectly
 >that the question of how and why [students have difficultly with these procedures]
