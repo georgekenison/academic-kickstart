@@ -44,8 +44,6 @@ We establish the following:
 doi: ""
 tags : ["decision problems", "recurrence sequences", "holonomic sequences", "minimal solutions", "Positivity Problem", "continued fractions", "special functions", "periods", "exponential periods"]
 links:
-- name: 'preprint'
-  url: ''
 url_pdf: files/2021LICSholonomic.pdf
 url_code: ''
 url_dataset: ''
